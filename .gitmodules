@@ -1,0 +1,8 @@
+[submodule "HighPerformanceSeismicStacking"]
+	path = HighPerformanceSeismicStacking
+	url = git@github.com:lmcad-unicamp/HighPerformanceSeismicStacking.git
+	branch = master
+[submodule "CLAP"]
+	path = CLAP
+	url = git@github.com:lmcad-unicamp/CLAP.git
+	branch = master
