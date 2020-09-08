@@ -1,0 +1,1 @@
+bin/spitz_de --input /home/ubuntu/nfs/data/fold2000.su --aph 1000 --apm 150 --azimuth 90 --tau 0.02 --gen 32 --pop 32 --traveltime oct --lower-bounds 400 -0.001 --upper-bounds 6000 0.001 --output /home/ubuntu/nfs/out/p3.2xlarge --verbose=1
