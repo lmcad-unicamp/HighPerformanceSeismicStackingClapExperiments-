@@ -1,0 +1,11 @@
+==== Gather Summary ====
+Input file = simple-synthetic.su
+Samples per trace = 2502
+Total traces count = 9200
+Total samples = 23018400
+CDPs = 445
+apm = 150 m
+aph = 1000 m
+tau = 0.02
+azimuth = 0 rad
+

@@ -1,0 +1,11 @@
+==== Gather Summary ====
+Input file = fold2000.su
+Samples per trace = 751
+Total traces count = 304038
+Total samples = 228332538
+CDPs = 400
+apm = 150 m
+aph = 1000 m
+tau = 0.02
+azimuth = 1.5708 rad
+
