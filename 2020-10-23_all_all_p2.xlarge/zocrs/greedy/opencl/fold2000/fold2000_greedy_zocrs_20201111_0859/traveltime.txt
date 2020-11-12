@@ -1,0 +1,7 @@
+==== Model Summary ====
+Name = zocrs
+h0 = 0
+velocity in [450, 6000]a in [-0.000866025, 0.000866025]b in [-1.97531e-06, 1.97531e-06]v0 = 2000
+ain = 1.0472 rad
+bpctg = 0.1
+

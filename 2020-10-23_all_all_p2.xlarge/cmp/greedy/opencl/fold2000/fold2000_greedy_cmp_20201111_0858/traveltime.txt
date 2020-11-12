@@ -1,0 +1,4 @@
+==== Model Summary ====
+Name = cmp
+h0 = 0
+velocity in [450, 6000]
